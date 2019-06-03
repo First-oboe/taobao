@@ -209,7 +209,7 @@ ul{list-style: none;}
 .detail_text{
 	margin-top: .1rem;
 	font-size: .14rem;
-	height: .26rem;
+	line-height: .16rem;
 	color: #555;
 	word-break: break-all;
     text-overflow: ellipsis;
